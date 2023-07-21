@@ -5,6 +5,10 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>ApexTestSuite</name>
+	</types>
+	<types>
 		<members>accdeltstpcon</members>
 		<name>ApexTrigger</name>
 	</types>
