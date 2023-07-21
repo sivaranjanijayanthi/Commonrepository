@@ -4,5 +4,9 @@
 		<members>ApexProperty</members>
 		<name>ApexClass</name>
 	</types>
+	<types>
+		<members>Hello_World</members>
+		<name>Flow</name>
+	</types>
 	<version>55.0</version>
 </Package>
