@@ -16,5 +16,9 @@
 		<members>Hello_World</members>
 		<name>Flow</name>
 	</types>
+	<types>
+		<members>screen_flows_prebuilt_crt</members>
+		<name>ReportType</name>
+	</types>
 	<version>55.0</version>
 </Package>
