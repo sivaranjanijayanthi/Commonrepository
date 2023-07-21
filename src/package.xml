@@ -5,6 +5,10 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
+		<members>Stopdeletion</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
 		<members>Hello_World</members>
 		<name>Flow</name>
 	</types>
