@@ -5,16 +5,16 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>ApexTestSuite</name>
-	</types>
-	<types>
 		<members>Stopdeletion</members>
 		<name>ApexTrigger</name>
 	</types>
 	<types>
 		<members>Hello_World</members>
 		<name>Flow</name>
+	</types>
+	<types>
+		<members>screen_flows_prebuilt_crt</members>
+		<name>ReportType</name>
 	</types>
 	<version>55.0</version>
 </Package>
