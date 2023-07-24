@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
+
 		<members>ApexProp</members>
 		<name>ApexClass</name>
 	</types>
@@ -19,6 +20,9 @@
 	<types>
 		<members>screen_flows_prebuilt_crt</members>
 		<name>ReportType</name>
+		<members>Class__c</members>
+		<name>CustomObject</name>
+
 	</types>
 	<version>55.0</version>
 </Package>
