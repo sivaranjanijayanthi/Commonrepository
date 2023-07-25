@@ -33,7 +33,11 @@
         <allowPause>false</allowPause>
         <fields>
             <name>Hello_World</name>
+feature/soumya
+            <fieldText>&lt;p&gt;&lt;span style=&quot;background-color: rgb(247, 247, 249); font-size: 12px; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(221, 17, 68);&quot;&gt;Hello, World&lt;/span&gt;&lt;/p&gt;</fieldText>
+
             <fieldText>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; font-family: &amp;quot;Salesforce Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; color: rgb(30, 30, 30);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; font-family: &amp;quot;Salesforce Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; color: rgb(30, 30, 30);&quot;&gt;Hello, World&lt;/strong&gt;&lt;/p&gt;</fieldText>
+qa
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>

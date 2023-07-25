@@ -279,6 +279,8 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+ feature/soumya
+
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
@@ -307,6 +309,7 @@
         </valueSet>
     </fields>
     <fields>
+qa
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
@@ -333,6 +336,8 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+feature/soumya
+
         <fullName>Match_Billing_Address__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
@@ -341,6 +346,7 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+qa
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -359,7 +365,11 @@
     <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
+feature/soumya
+        <label>Number of Locations 1</label>
+
         <label>Number of Locations</label>
+qa
         <precision>3</precision>
         <required>false</required>
         <scale>0</scale>
@@ -471,6 +481,17 @@
         <fullName>Tier</fullName>
     </fields>
     <fields>
+feature/soumya
+        <fullName>Todays_date__c</fullName>
+        <externalId>false</externalId>
+        <label>Todays date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
+
+qa
         <fullName>Tradestyle</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -480,6 +501,45 @@
         <type>Picklist</type>
     </fields>
     <fields>
+feature/soumya
+        <fullName>UpsellOpportunity__c</fullName>
+        <externalId>false</externalId>
+        <label>Upsell Opportunity</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Maybe</fullName>
+                    <default>false</default>
+                    <label>Maybe</label>
+                </value>
+                <value>
+                    <fullName>No</fullName>
+                    <default>false</default>
+                    <label>No</label>
+                </value>
+                <value>
+                    <fullName>Yes</fullName>
+                    <default>false</default>
+                    <label>Yes</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Website</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>YearStarted</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <listViews>
+        <fullName>AllAccounts</fullName>
+
         <fullName>Website</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -505,6 +565,7 @@
         <columns>ACCOUNT.PHONE1</columns>
         <columns>ACCOUNT.TYPE</columns>
         <columns>CORE.USERS.ALIAS</columns>
+qa
         <filterScope>Everything</filterScope>
         <label>All Accounts</label>
     </listViews>

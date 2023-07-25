@@ -11,7 +11,11 @@
         "singlePackage": true,
         "testLevel": "Default"
     },
+feature/soumya
+    "isDeveloperEdition": true,
+
     "isDeveloperEdition": false,
+qa
     "overwritePackageXML": false,
     "poll": 2000,
     "pollTimeout": 1200,
