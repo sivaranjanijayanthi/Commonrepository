@@ -11,11 +11,7 @@
         "singlePackage": true,
         "testLevel": "Default"
     },
-feature/soumya
     "isDeveloperEdition": true,
-
-    "isDeveloperEdition": false,
-qa
     "overwritePackageXML": false,
     "poll": 2000,
     "pollTimeout": 1200,
@@ -24,7 +20,7 @@ qa
     "spaDist": "",
     "src": "src",
     "staticResourceCacheControl": "Private",
-    "username": "soumya1997@gmail.com",
+    "username": "jayanthisiv124@gmail.com",
     "url": "https://login.salesforce.com",
     "autoCompile": false,
     "useSourceFormat": false
